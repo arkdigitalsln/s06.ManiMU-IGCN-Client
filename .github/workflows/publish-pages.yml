@@ -2,7 +2,7 @@ name: Publish updater metadata
 
 on:
   push:
-    branches: [main]
+    branches: [master]
     paths:
       - 'pages/**'
       - '.github/workflows/publish-pages.yml'
