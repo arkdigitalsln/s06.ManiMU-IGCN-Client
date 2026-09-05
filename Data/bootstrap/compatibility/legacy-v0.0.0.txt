@@ -1,0 +1,1 @@
+Compatibility marker for legacy 0.0.0 launchers.
