@@ -1,0 +1,15 @@
+{
+	"selectGroup":"2026",
+	"2026":[
+		{
+			"title":"Test Event",
+			"link":"http://localhost",
+			"image":"https://arkdigitalsln.github.io/s06.ManiMU-IGCN-Client/banner/banner1.png"
+		},
+		{
+			"title":"Test Notice",
+			"link":"http://localhost",
+			"image":"https://arkdigitalsln.github.io/s06.ManiMU-IGCN-Client/banner/banner2.png"
+		},
+	]
+}
